@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Sa3d\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sa3d\\.nuget\\packages"
+    ]
+  }
+}
